@@ -1,10 +1,8 @@
-name: Simply Grey
+name: Ronna
 markdown: redcarpet
 pygments: true
-github: https://www.github.com/exaem
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+github: https://www.github.com/ronna-s
+about: Developer, Architect, Woman
 urls:
     - text: github
-      url: https://github.com/exaem
-    - text: email
-      url: mailto:exaem@exaem.co.uk
+      url: https://github.com/ronna-s
